@@ -1,4 +1,4 @@
-fetch("http://admin.dszcbaross.tk:20001/termektipus")
+fetchdsadsadsa
 .then(x => x.json())
 .then(y => megjelenit(y));
 
